@@ -1,0 +1,1 @@
+# Archipelago Client for Shapez

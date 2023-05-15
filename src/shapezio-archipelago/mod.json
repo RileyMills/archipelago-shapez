@@ -1,0 +1,16 @@
+{
+    "entry": "main.js",
+    "id": "shapezio-archipelago",
+    "version": "1.0.0",
+    "name": "shapezio-archipelago",
+    "author": "Riley Mills",
+    "description": "Integrates with Archipelago Multiworld",
+    "website": "",
+    "settings": {
+        "archipelago_host": "archipelago.gg",
+        "archipelago_port": "12345",
+        "archipelago_slot": "",
+        "archipelago_password": "",
+        "archipelago_uuid": ""
+    }
+}
